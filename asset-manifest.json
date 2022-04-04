@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-routing/static/css/main.bddfff83.css",
+    "main.js": "/react-routing/static/js/main.213d39d5.js",
+    "static/media/banner-img.png": "/react-routing/static/media/banner-img.ec6121ec6c597e8a7b3d.png",
+    "static/media/app.png": "/react-routing/static/media/app.03abdf62ae81a79f629a.png",
+    "static/media/software.jpg": "/react-routing/static/media/software.bb862464d6430c13b9f8.jpg",
+    "static/media/marketing.jpg": "/react-routing/static/media/marketing.40b050f8b6397189b147.jpg",
+    "static/media/digital.jpg": "/react-routing/static/media/digital.7e2068f5bf9f09941a0d.jpg",
+    "static/media/web.jpg": "/react-routing/static/media/web.55ad5084f8b128ed1d8f.jpg",
+    "static/media/android.jpg": "/react-routing/static/media/android.0247821654ac94959b0c.jpg",
+    "static/media/mobile.png": "/react-routing/static/media/mobile.389351ee2d1c14e4b25e.png",
+    "index.html": "/react-routing/index.html",
+    "main.bddfff83.css.map": "/react-routing/static/css/main.bddfff83.css.map",
+    "main.213d39d5.js.map": "/react-routing/static/js/main.213d39d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bddfff83.css",
+    "static/js/main.213d39d5.js"
+  ]
+}
